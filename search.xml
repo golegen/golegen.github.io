@@ -4,13 +4,100 @@
   
     
     <entry>
-      <title>新建一篇文章</title>
-      <link href="/2024/03/04/%E6%96%B0%E5%BB%BA%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/03/04/%E6%96%B0%E5%BB%BA%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>rustLesson2</title>
+      <link href="/2024/05/04/rustLesson2/"/>
+      <url>/2024/05/04/rustLesson2/</url>
       
-        <content type="html"><![CDATA[<p>新建文章</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new title 新建一篇文章</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> rust </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> rust </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>rustLesson1</title>
+      <link href="/2024/05/04/rustLesson1/"/>
+      <url>/2024/05/04/rustLesson1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> rust </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> rust </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>pythonlesson2</title>
+      <link href="/2024/05/04/pythonlesson2/"/>
+      <url>/2024/05/04/pythonlesson2/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>pythonlesson1</title>
+      <link href="/2024/05/04/pythonlesson1/"/>
+      <url>/2024/05/04/pythonlesson1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
       
     </entry>
     
