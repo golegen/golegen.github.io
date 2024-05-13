@@ -60,7 +60,6 @@
 }
 
 /* 评论框  */
-/*
 .vwrap {
     box-shadow: 1px 1px 2px #bbb;
     background: rgba(255, 255, 255, 0.3);
@@ -68,10 +67,8 @@
     padding: 30px;
     margin: 30px 0px 30px 0px;
 }
-*
 
 /* 提交按钮 */
-/*
 #vcomment button {
     padding: 0.3rem 0.8rem;
     border-color: #fff;
@@ -84,26 +81,23 @@
     -ms-transition: all 0.3s;
     transition: all 0.3s;
 }
-*/
+
 /* 评论区代码块 */
-/*
 .v[data-class=v] code {
     color: #c7254e;
     background-color: #F9F2F4;
 }
-*/
+
 /* 设置评论框 */
-/*
 .vcard {
-    box-shadow: 2px 2px 2px #bbb;
+    box-shadow: 1px 1px 1px #bbb;
     background: rgba(255, 255, 255, 0.3);
     border-radius: 8px;
-    padding: 2px;
-    margin: 10px 3px 0px 0px;
+    padding: 3px;
+    margin: 10px 0px 0px 0px;
 }
-*/
+
 /* 评论回复框 */
-/*
 .v[data-class=v] .vcards .vcard .vh .vmeta .vat {
     padding: 0 0.8rem;
     border: 1px solid #e58a8a;
@@ -112,14 +106,13 @@
     font-size: 0.7125rem;
     float: right;
 }
-*/
+
 /* 取消回复聊天框 */
-/*
 .vquote .vcard {
     box-shadow: 2px 2px 5px transparent;
     background: rgba(255, 255, 255, 0.0);
     padding: 0px;
 }
-*/
+
 
 
