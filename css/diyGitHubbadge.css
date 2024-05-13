@@ -54,3 +54,7 @@
 .github-badge .bg-lightgrey, .github-badge .bg-lightgray {
     background-color:#9f9f9f !important;
 }
+
+.author-info__name {
+    color: #ff7242;
+}
