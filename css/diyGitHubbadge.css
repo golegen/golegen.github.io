@@ -90,7 +90,7 @@
 
 /* 设置评论框 */
 .vcard {
-    box-shadow: 1px 1px 2px #bbb;
+    box-shadow: 2px 2px 2px #bbb;
     background: rgba(255, 255, 255, 0.3);
     border-radius: 8px;
     padding: 2px;
