@@ -59,18 +59,9 @@
     color: #ff7242;
 }
 
-#toggle-sidebar {
-    color: #e58a8a !important;
-}
-
-.layout_post .post-copyright .post-copyright-info a {
-    text-decoration: none;
-    word-break: break-word;
-}
-
 /* 评论框  */
 .vwrap {
-    box-shadow: 2px 2px 5px #bbb;
+    box-shadow: 1px 1px 2px #bbb;
     background: rgba(255, 255, 255, 0.3);
     border-radius: 8px;
     padding: 30px;
@@ -99,11 +90,11 @@
 
 /* 设置评论框 */
 .vcard {
-    box-shadow: 2px 2px 5px #bbb;
+    box-shadow: 1px 1px 2px #bbb;
     background: rgba(255, 255, 255, 0.3);
     border-radius: 8px;
-    padding: 30px;
-    margin: 30px 0px 0px 0px;
+    padding: 2px;
+    margin: 10px 3px 0px 0px;
 }
 
 /* 评论回复框 */
