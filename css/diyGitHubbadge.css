@@ -107,7 +107,7 @@
     float: right;
 }
 
-* 取消回复聊天框 */
+/* 取消回复聊天框 */
 .vquote .vcard {
     box-shadow: 2px 2px 5px transparent;
     background: rgba(255, 255, 255, 0.0);
