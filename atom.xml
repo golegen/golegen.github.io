@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Golegen.com</title>
+  <icon>http://golegen.com/images/icon.png</icon>
+  <subtitle>Golegen博客</subtitle>
+  <link href="http://golegen.com/atom.xml" rel="self"/>
+  
+  <link href="http://golegen.com/"/>
+  <updated>2024-05-13T14:12:15.895Z</updated>
+  <id>http://golegen.com/</id>
+  
+  <author>
+    <name>Golegen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>练习创建hexo文章2</title>
+    <link href="http://golegen.com/posts/11103.html"/>
+    <id>http://golegen.com/posts/11103.html</id>
+    <published>2024-05-13T04:23:29.000Z</published>
+    <updated>2024-05-13T14:12:15.895Z</updated>
+    
+    
+    <summary type="html">单纯用来练习</summary>
+    
+    
+    
+    <category term="python" scheme="http://golegen.com/categories/python/"/>
+    
+    
+    <category term="练习" scheme="http://golegen.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+    <category term="创建" scheme="http://golegen.com/tags/%E5%88%9B%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>练习创建hexo文章1</title>
+    <link href="http://golegen.com/posts/10783.html"/>
+    <id>http://golegen.com/posts/10783.html</id>
+    <published>2024-05-13T04:22:27.000Z</published>
+    <updated>2024-05-13T14:03:40.207Z</updated>
+    
+    
+    <summary type="html">单纯用来练习</summary>
+    
+    
+    
+    <category term="python" scheme="http://golegen.com/categories/python/"/>
+    
+    
+    <category term="练习" scheme="http://golegen.com/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+    <category term="创建" scheme="http://golegen.com/tags/%E5%88%9B%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rustlesson2</title>
+    <link href="http://golegen.com/posts/46051.html"/>
+    <id>http://golegen.com/posts/46051.html</id>
+    <published>2024-05-12T20:59:15.000Z</published>
+    <updated>2024-05-13T13:04:38.547Z</updated>
+    
+    
+    <summary type="html">rust文章测试</summary>
+    
+    
+    
+    <category term="rust" scheme="http://golegen.com/categories/rust/"/>
+    
+    
+    <category term="rust" scheme="http://golegen.com/tags/rust/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rustlesson1</title>
+    <link href="http://golegen.com/posts/45731.html"/>
+    <id>http://golegen.com/posts/45731.html</id>
+    <published>2024-05-11T18:51:40.000Z</published>
+    <updated>2024-05-13T13:04:38.543Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;第一篇rust文章&quot;&gt;&lt;a href=&quot;#第一篇rust文章&quot; class=&quot;headerlink&quot; title=&quot;第一篇rust文章&quot;&gt;&lt;/a&gt;第一篇rust文章&lt;/h2&gt;&lt;h3 id=&quot;1-1-练习1&quot;&gt;&lt;a href=&quot;#1-1-练习1&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rust" scheme="http://golegen.com/categories/rust/"/>
+    
+    
+    <category term="rust" scheme="http://golegen.com/tags/rust/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://golegen.com/posts/16107.html"/>
+    <id>http://golegen.com/posts/16107.html</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2024-05-13T13:04:38.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
