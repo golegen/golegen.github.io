@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://golegen.com/sitemap.xml
+Sitemap: https://golegen.com/baidusitemap.xml
