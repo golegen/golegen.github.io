@@ -184,7 +184,7 @@ template {
     #aside_content
     div:not(:last-child) {
         display: none;
-        font-size: 10px;
+        font-size: 8px;
     }
 }
 .limit-one-line,
