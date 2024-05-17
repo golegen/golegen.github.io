@@ -1,0 +1,9 @@
+#footer-wrap, #git_container .float-left.text-gray, #nav #site-name, #page-header #site-subtitle, #page-header #site-title, #post .post-copyright .post-copyright-info a, #post-info .post-title {
+    background-image: linear-gradient(to left,#ff4500,orange,gold,#90ee90,#0ff,#1e90ff,#9370db,#ff69b4,#ff4500);
+    background-size: 110vw;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-animation: rainbowan 60s linear infinite;
+    animation: rainbowan 60s linear infinite;
+}
