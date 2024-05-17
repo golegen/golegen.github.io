@@ -6,7 +6,7 @@
   <link href="http://golegen.com/atom.xml" rel="self"/>
   
   <link href="http://golegen.com/"/>
-  <updated>2024-05-16T13:37:17.977Z</updated>
+  <updated>2024-05-17T11:40:37.138Z</updated>
   <id>http://golegen.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>butterfly开启mermaid支持</title>
+    <link href="http://golegen.com/posts/14f0df3b.html"/>
+    <id>http://golegen.com/posts/14f0df3b.html</id>
+    <published>2024-05-17T03:32:17.000Z</published>
+    <updated>2024-05-17T11:40:37.138Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1、先安装：npm install hexo-filter-mermaid-diagrams —save&lt;br&gt;2、在butterfly中开启&lt;/p&gt;
+&lt;figure class=&quot;highlight yml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="markdown" scheme="http://golegen.com/categories/markdown/"/>
+    
+    
+    <category term="markdown" scheme="http://golegen.com/tags/markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>练习创建hexo文章2</title>
