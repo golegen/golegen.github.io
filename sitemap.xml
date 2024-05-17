@@ -137,13 +137,6 @@
 
   
   <url>
-    <loc>http://golegen.com/tags/markdown/</loc>
-    <lastmod>2024-05-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://golegen.com/tags/rust/</loc>
     <lastmod>2024-05-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -164,14 +157,14 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://golegen.com/categories/markdown/</loc>
+    <loc>http://golegen.com/tags/markdown/</loc>
     <lastmod>2024-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>http://golegen.com/categories/rust/</loc>
@@ -182,6 +175,13 @@
   
   <url>
     <loc>http://golegen.com/categories/python/</loc>
+    <lastmod>2024-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://golegen.com/categories/markdown/</loc>
     <lastmod>2024-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
