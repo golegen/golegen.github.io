@@ -6,7 +6,7 @@
   <link href="http://golegen.com/atom.xml" rel="self"/>
   
   <link href="http://golegen.com/"/>
-  <updated>2024-05-17T12:18:05.550Z</updated>
+  <updated>2024-05-18T00:51:42.878Z</updated>
   <id>http://golegen.com/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="http://golegen.com/posts/14f0df3b.html"/>
     <id>http://golegen.com/posts/14f0df3b.html</id>
     <published>2024-05-17T03:32:17.000Z</published>
-    <updated>2024-05-17T12:18:05.550Z</updated>
+    <updated>2024-05-18T00:51:42.878Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;1、先安装：npm install hexo-filter-mermaid-diagrams —save&lt;br&gt;2、在butterfly中开启&lt;/p&gt;
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;1、先安装：npm install hexo-filter-mermaid-diagrams —save&lt;br&gt;2、在butterfly中开启&lt;/p&gt;
 &lt;figure class=&quot;highlight yml&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
         
       
