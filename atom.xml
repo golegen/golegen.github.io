@@ -6,7 +6,7 @@
   <link href="http://golegen.com/atom.xml" rel="self"/>
   
   <link href="http://golegen.com/"/>
-  <updated>2024-05-27T02:27:43.146Z</updated>
+  <updated>2024-05-27T02:31:13.894Z</updated>
   <id>http://golegen.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test3</title>
+    <link href="http://golegen.com/posts/64bcbdce.html"/>
+    <id>http://golegen.com/posts/64bcbdce.html</id>
+    <published>2024-05-26T18:31:13.000Z</published>
+    <updated>2024-05-27T02:31:13.894Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test2</title>
+    <link href="http://golegen.com/posts/13bb8d58.html"/>
+    <id>http://golegen.com/posts/13bb8d58.html</id>
+    <published>2024-05-26T18:29:15.000Z</published>
+    <updated>2024-05-27T02:29:15.438Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>butterfly开启mermaid支持</title>
     <link href="http://golegen.com/posts/14f0df3b.html"/>
     <id>http://golegen.com/posts/14f0df3b.html</id>
     <published>2024-05-26T18:27:43.000Z</published>
-    <updated>2024-05-27T02:27:43.146Z</updated>
+    <updated>2024-05-27T02:28:33.626Z</updated>
     
     
     
