@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://golegen.com/posts/43c47347.html</loc>
+    
+    <lastmod>2024-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://golegen.com/posts/17ef720a.html</loc>
+    
+    <lastmod>2024-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://golegen.com/link/index.html</loc>
     
     <lastmod>2024-05-13</lastmod>
@@ -82,6 +100,34 @@
   </url>
 
   
+  <url>
+    <loc>http://golegen.com/tags/%E7%83%A7%E9%A5%BC%E6%AD%8C/</loc>
+    <lastmod>2024-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://golegen.com/tags/%E7%B4%AB%E8%96%87%E5%9C%A3%E4%BA%BA/</loc>
+    <lastmod>2024-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://golegen.com/tags/%E7%B4%AB%E8%96%87%E5%9C%A3%E5%A5%B3/</loc>
+    <lastmod>2024-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://golegen.com/categories/%E7%83%A7%E9%A5%BC%E6%AD%8C%E7%BB%AD%E9%9B%86/</loc>
+    <lastmod>2024-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
